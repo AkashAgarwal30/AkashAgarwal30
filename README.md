@@ -1,3 +1,4 @@
+![Akash's Github Stats](https://github-readme-stats.vercel.app/api?username=AkashAgarwal30&show_icons=true)
 ### Hi there 👋
 
 <!--
